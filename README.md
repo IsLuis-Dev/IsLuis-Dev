@@ -2,49 +2,52 @@
 
 # Luis Cruz
 
-### Desarrollador Full-Stack · Flutter & Dart · UI/UX
+### Desarrollador Flutter & Full-Stack · UI/UX
 
-Construyo aplicaciones móviles y web con interfaces cuidadas, arquitectura mantenible y un enfoque práctico en seguridad.
+Diseño y desarrollo productos digitales multiplataforma, desde la experiencia de usuario hasta su implementación y validación.
 
 [![GitHub](https://img.shields.io/badge/GitHub-cruzlcdev-181717?style=flat-square&logo=github)](https://github.com/cruzlcdev)
+[![Email](https://img.shields.io/badge/Email-luisitprivt%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:luisitprivt@gmail.com)
 
 </div>
 
 ## Sobre mí
 
-- Desarrollo aplicaciones multiplataforma con **Flutter y Dart**.
-- Diseño experiencias de usuario claras, adaptables y consistentes.
-- Construyo soluciones web con **PHP, JavaScript y MySQL**.
-- Integro principios de seguridad, documentación y calidad durante el ciclo de desarrollo.
-- También exploro prototipos con **Arduino, ESP8266 y C++**.
+- Desarrollo aplicaciones móviles y web multiplataforma con **Flutter y Dart**.
+- Diseño interfaces adaptables con atención a la usabilidad, consistencia visual y rendimiento.
+- Integro **Firebase**, servicios REST, autenticación, persistencia local y flujos con conectividad intermitente.
+- Aplico buenas prácticas de arquitectura, seguridad, documentación y control de versiones.
+- Desarrollo prototipos de hardware y comunicación inalámbrica con **Arduino, ESP8266 y C++**.
 
-## Tecnologías
+## Stack actual
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-## Proyectos destacados
+## Proyecto destacado
 
 ### [Cintli Montessori](https://github.com/cruzlcdev/Montessori-App)
 
-Sistema escolar con una aplicación móvil para familias y docentes y un panel administrativo web. Desarrollado con Flutter, Dart, Firebase Authentication y Cloud Firestore.
-
-### [Sistema de Gestión para Astillero Naval](https://github.com/cruzlcdev/SistemaWeb-marina)
-
-Plataforma web para gestionar buques, órdenes de trabajo, materiales, tickets y personal. Desarrollada con PHP, MySQL, JavaScript, HTML y CSS.
+Sistema escolar multiplataforma con una aplicación para familias y docentes y un panel administrativo web. Integra Flutter, Dart, Firebase Authentication, Cloud Firestore, control de acceso por roles y actualización de datos en tiempo real.
 
 ## Enfoque profesional
 
 ```text
-Diseño de producto → Arquitectura → Desarrollo → Validación → Mejora continua
+Producto → UX/UI → Arquitectura → Desarrollo → Validación → Mejora continua
 ```
 
-Me interesa crear software útil, seguro y preparado para evolucionar, con código legible, documentación clara y decisiones técnicas justificadas.
+Mi objetivo es construir software útil, seguro y preparado para evolucionar, con código mantenible, documentación clara y decisiones técnicas justificadas.
+
+## Proyectos, colaboraciones y contratación
+
+Estoy disponible para conversar sobre desarrollo de aplicaciones, colaboraciones técnicas y oportunidades profesionales.
+
+**Contacto:** [luisitprivt@gmail.com](mailto:luisitprivt@gmail.com)
