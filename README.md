@@ -17,7 +17,6 @@ Diseño y desarrollo productos digitales multiplataforma, desde la experiencia d
 - Diseño interfaces adaptables con atención a la usabilidad, consistencia visual y rendimiento.
 - Integro **Firebase**, servicios REST, autenticación, persistencia local y flujos con conectividad intermitente.
 - Aplico buenas prácticas de arquitectura, seguridad, documentación y control de versiones.
-- Desarrollo prototipos de hardware y comunicación inalámbrica con **Arduino, ESP8266 y C++**.
 
 ## Stack actual
 
@@ -27,8 +26,6 @@ Diseño y desarrollo productos digitales multiplataforma, desde la experiencia d
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
