@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-header.svg" alt="Luis — Full-Stack and Flutter Developer" width="100%" />
+<img src="./assets/profile-header.svg" alt="Luis Cruz — Flutter and Full-Stack Developer" width="100%" />
 
 ### Building reliable mobile and web products from UX to production
 
@@ -20,7 +20,7 @@
 
 ## About me
 
-I'm **Luis Alberto Cruz Rojas**, a Full-Stack and Flutter developer based in
+I'm **Luis Cruz**, a Full-Stack and Flutter developer based in
 Mexico City. I design and build scalable mobile and web products, connecting
 user experience, software architecture, data, security, and delivery.
 
@@ -119,7 +119,7 @@ teams, and opportunities where thoughtful UX and solid engineering matter.
 
 ## Sobre mí
 
-Soy **Luis Alberto Cruz Rojas**, desarrollador Full-Stack y Flutter ubicado en
+Soy **Luis Cruz**, desarrollador Full-Stack y Flutter ubicado en
 Ciudad de México. Diseño y construyo productos móviles y web escalables,
 conectando experiencia de usuario, arquitectura de software, datos, seguridad y
 entrega.
