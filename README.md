@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-header.svg" alt="Luis Alberto Cruz Rojas — Full-Stack and Flutter Developer" width="100%" />
+<img src="./assets/profile-header.svg" alt="Luis — Full-Stack and Flutter Developer" width="100%" />
 
 ### Building reliable mobile and web products from UX to production
 
