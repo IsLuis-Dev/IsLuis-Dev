@@ -162,7 +162,6 @@ una ingeniería sólida sean importantes.
 
 - **Correo:** [luisitprivt@gmail.com](mailto:luisitprivt@gmail.com)
 - **LinkedIn:** [linkedin.com/in/luis-cruz-a9a4763bb](https://www.linkedin.com/in/luis-cruz-a9a4763bb/)
-- **Portafolio:** [algorithm-cv.netlify.app](https://algorithm-cv.netlify.app)
 - **Ubicación:** Ciudad de México, México
 
 </details>
