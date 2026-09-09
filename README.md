@@ -63,7 +63,6 @@ quality of the code and the clarity of the product.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
-![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![Secure Development](https://img.shields.io/badge/Secure_Development-263238?style=flat-square&logo=owasp&logoColor=white)
 
 ## Currently expanding
